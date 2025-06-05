@@ -61,11 +61,11 @@ _Trivandrum, Kerala | July 2019 - February 2021_
 
 ## TECHNICAL SKILLS
 
-- **Programming:**  : Python, Golang, Bash scripting
-- **Databases:**    : SQL, PostgreSQL, Oracle, SQL Server
-- **Big Data:**     : Apache Spark, Hadoop, Hive, PySpark, Pandas, Polars
-- **Cloud/DevOps:** : AWS (S3, Lambda, EC2, Batch), Azure, Jenkins, Docker
-- **Tools:**        : Apache Airflow, Py-Spark, Scikit-Learn, Palantir Foundry
+- **Programming:**   Python, Golang, Bash scripting
+- **Databases:**     SQL, PostgreSQL, Oracle, SQL Server
+- **Big Data:**      Apache Spark, Hadoop, Hive, PySpark, Pandas, Polars
+- **Cloud/DevOps:**  AWS (S3, Lambda, EC2, Batch), Azure, Jenkins, Docker
+- **Tools:**         Apache Airflow, Py-Spark, Scikit-Learn, Palantir Foundry
 
 ---
 
