@@ -42,7 +42,8 @@ _Bengaluru, Karnataka | February 2021 – January 2024_
   Data lineage etc.).
 - Made a ML model to classify NPS responses to a predefined list of
   classes/labels using SparkML, pyspark.
-- Tools: Python, PySpark, Palantir Foundry (Code repo, Object explorer, Data lineage)
+- Tools: Python, PySpark, Palantir Foundry (Code repo, Object explorer, Data lineage),
+         Google BigQuery
 
 ### Data Engineer - 1 | Nissan Digital
 _Trivandrum, Kerala | July 2019 - February 2021_
@@ -62,9 +63,9 @@ _Trivandrum, Kerala | July 2019 - February 2021_
 ## TECHNICAL SKILLS
 
 - **Programming:**   Python, Golang, Bash scripting
-- **Databases:**     SQL, PostgreSQL, Oracle, SQL Server
+- **Databases:**     SQL, PostgreSQL, Oracle, SQL Server, Google BigQuery
 - **Big Data:**      Apache Spark, Hadoop, Hive, PySpark, Pandas, Polars
-- **Cloud/DevOps:**  AWS (S3, Lambda, EC2, Batch), Azure, Jenkins, Docker
+- **Cloud/DevOps:**  AWS (S3, Lambda, EC2, Batch), Azure, Jenkins, Docker, Google Cloud Platform (GCP)
 - **Tools:**         Apache Airflow, Py-Spark, Scikit-Learn, Palantir Foundry
 
 ---
