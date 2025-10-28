@@ -1,0 +1,47 @@
+/* Page setup */
+@page {
+  size: A4;
+  margin: 0;
+}
+
+/* Base styles */
+body {
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 11pt;
+  color: #000;
+  line-height: 1.2;
+  background: white;
+
+  /* Flexbox two-column layout */
+  display: flex;
+  flex-direction: row;
+}
+
+/* Left sidebar */
+aside {
+  width: 40%;
+  background: #f9f9f9;
+  padding: 7mm 5mm;
+  box-sizing: border-box;
+}
+
+/* Right main content */
+main {
+  width: 60%;
+  padding: 7mm;
+  box-sizing: border-box;
+}
+
+/*/* Headings */
+/*h1, h2, h3 {
+/*  font-weight: bold;
+/*  margin-top: 0.6em;
+/*  margin-bottom: 0.2em;
+/*  color: #000;
+/*}
+
+/* Links look like plain text */
+a {
+  color: inherit;
+  text-decoration: none;
+}
