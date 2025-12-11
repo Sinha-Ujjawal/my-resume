@@ -47,7 +47,7 @@ Senior Data Engineer with 6+ years’ experience in building scalable pipelines,
 
 #### Data Scientist | Fractal Analytics (Bengaluru)
 *Oct 2025 - Present*
-- Recently joined for the Generative AI role and is currently on bench.
+- Working as an AI Engineer on the Cogentiq Platform. Worked on creating backend APIs with fastapi, SQLAlchemy for the ORM, alembic for database migrations. Also, worked on crewai, langfuse and codegen. Primarily using Azure Cloud for deploying Webapps in Docker containers.
 
 #### Sr. Data Engineer | Circana (Bengaluru)
 *Jan 2024 – Oct 2025*
@@ -67,7 +67,6 @@ Senior Data Engineer with 6+ years’ experience in building scalable pipelines,
 
 #### Data Engineer 1 | Nissan Digital (Trivandrum)
 *Jul 2019 – Feb 2021*
-- Developed ETL scripts for inventory optimization & vehicle volume estimation. *(Python, Prefect, SQLAlchemy, AWS)*
-- Built reusable AWS modules (S3, RDS, Batch), reducing code duplication. *(AWS, Docker)*
+- Developed ETL scripts for inventory optimization & vehicle volume estimation. *(Python, Prefect, SQLAlchemy, AWS Services like Lambda, S3, Aurora, ECS)*
 
 </main>
