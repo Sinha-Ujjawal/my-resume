@@ -1,7 +1,3 @@
-<div class="passport">
-  <img src="didi-photo.jpg" alt="Passport Photo">
-</div>
-
 <main>
 
 ## DR. RIMJHIM SINHA (MBBS, M.D. Community Medicine)
@@ -15,12 +11,21 @@
 
 Community Medicine postgraduate skilled in public health planning, epidemiology, and health education initiatives.
 
+### Experience
 
-## Certifications
+#### Junior Resident | Hind Institute of Medical Sciences (Barabanki, U.P.)
+*Nov 2022 - Oct 2025*
+- Taught undergrads the basics of housing standards and family health studies, focusing on how social environments impact patient outcomes.
+- Lectured on epidemiology and disease prevention, leading discussions to help students apply public health theory to real-world scenarios.
+- Presented clinico-social cases that bridged the gap between a patient’s medical diagnosis and their living conditions.
+- Led field trips to CHCs, RHTCs, and district hospitals to show students how healthcare systems actually function on the ground.
+- Contributed to departmental seminars and presented research at journal clubs, focusing on critical appraisal and current evidence-based trends.
+
+### Certifications
 
 **1. CME on World AIDS Day, HIV/AIDS**
 
-The Forgotten Epidemic
+HIV/AIDS: The Forgotten Epidemic
 
 Year: 2023
 
@@ -53,7 +58,7 @@ Presentation on "The Role of Nutrition in Lifestyle Medicine: A Foundation for H
 
 Year: 2025
 
-## Education
+### Education
 
 **1. M.B.B.S.**
 
