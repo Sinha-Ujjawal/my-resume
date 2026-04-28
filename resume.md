@@ -1,72 +1,57 @@
-<aside>
+<main>
+
+<div class="row">
+<main_left>
 
 ## UJJAWAL SINHA
-### Senior Data Engineer
-
+### Senior Software Engineer
 📞 +91 7873878103
 
-✉️  ujjawalsinhacool16021998@gmail.com
+</main_left>
+<main_right>
+
+✉️ ujjawalsinhacool16021998@gmail.com
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sinha-ujjawal/)
 🔗 [GitHub](https://github.com/Sinha-ujjawal)
 
-## Technical Skills
+</main_right>
+</div>
 
-- **Programming:** Python, Golang, Bash
-- **Big Data:** Spark, PySpark, Hadoop, Hive, Pandas, Polars
-- **Databases:** PostgreSQL, Oracle, SQL Server, BigQuery
-- **Cloud/DevOps:** AWS (S3, Lambda, EC2, Batch), Azure, GCP, Jenkins, Docker
-- **Data Eng. & ML Tools:** Airflow, Scikit-Learn, Palantir Foundry
+Senior Software Engineer with 7 years of experience in architecting high-performance systems and full-stack data platforms. Deeply proficient in **Distributed Systems (Spark/Hadoop)** and **Backend Architecture (Java/Go/Python)**, with a current focus on **Agentic AI and LLM Orchestration**.
 
-## Certifications
+#### EXPERIENCE
 
-**Palantir Foundry Data Engineer Professional**
-Palantir | 2023
+**Senior Data Engineer | Visa | February 2026 – Present | Bengaluru**
+- Working on maintaining ETL pipeline that processes client's transactions and invoice data, based on company subscription and delivers the data to outbound, based on outbound subscription. Tools used are **Scala, Java, Springboot, IBM DB2, Hadoop and Hive**.
 
-## Achievements
+**Data Scientist | Fractal Analytics | October 2025 – February 2026 | Bengaluru**
+- Developed backend APIs and managed database migrations for the Cogentiq Platform using **FastAPI, SQLAlchemy, and Alembic**.
+- Built agentic AI workflows with **CrewAI and Langfuse**, deploying containerized applications via **Docker** on **Azure Cloud**.
 
-- Recognition for optimizing R scripts (Swiss Re Triannual Awards)
-- Spotlight award for project contribution (Nissan Digital)
-- Finalist – 7th CSI In-App National Project Awards
+**Senior Data Engineer | Circana | January 2024 – October 2025 | Bengaluru**
+- Modernized legacy Hive workloads by migrating to **PySpark and Airflow** while automating CI/CD deployments via **Jenkins**.
+- Engineered end-to-end pipelines to integrate UPC and impression data with internal datasets for sales metrics using **Spark and AWS S3**.
 
-## Education
+**Data Engineer | Swiss Re | February 2021 – January 2024 | Bengaluru**
+- Worked on developing internal CRM dashboard (Customer 360) using **PySpark, Palantir Foundry, Micosoft SQL Server, Microservices (Springboot)**.
+- Build **SparkML** model to do fuzzy matching of company data (name, address, etc.) to group similar company names based on companies defined in our CRM dashboard. This helped in accurate tagging of companies under the same group.
+- Built CRM data quality monitoring systems and trained **SparkML** models to classify NPS responses into structured categories.
+- Refactored SQL and parallelized workloads to optimize legacy **R pipelines**, significantly improving processing speed and reliability.
 
-**B.Tech – Computer Science**
-KIIT University, Bhubaneswar | 2015–2019
-CGPA: 8.9
+**Software Engineer | Nissan Digital | July 2019 – February 2021 | Trivandrum**
+- Built scalable ETL services for inventory optimization using **Python, Prefect, and SQLAlchemy**, leveraging **AWS Lambda and ECS** for serverless execution.
+- Contributed to the full software development lifecycle of vehicle volume estimation tools, focusing on data integrity and cloud-native infrastructure.
 
-</aside>
+#### SKILLS
+Python, Java, Scala, Golang, C, Bash, Spark, PySpark, Hadoop, Hive, Airflow, Pandas, Polars, Palantir Foundry, IBM DB2, PostgreSQL, Oracle, SQL Server, BigQuery, AWS, Azure, GCP, Docker, Jenkins, Linux (Fedora/Debian), Spring Boot, FastAPI, CrewAI, Langfuse, LangChain, Generative AI, LLM Orchestration, Microservices, Performance Optimization, Data-Oriented Design
 
-<main>
+#### EDUCATION
+**B.TECH, CSE | 8.9 CGPA | 2015-19 | KIIT University, Bhubaneswar**
 
-## Profile
-
-Senior Data Engineer with 6+ years’ experience in building scalable pipelines, automating workflows, and deploying ML/NLP solutions. Skilled in Spark, Foundry, Airflow, and AWS, with proven impact on KPI reporting, data reliability, and team mentoring.
-
-## Experience
-
-#### Data Scientist | Fractal Analytics (Bengaluru)
-*Oct 2025 - Present*
-- Working as an AI Engineer on the Cogentiq Platform. Worked on creating backend APIs with fastapi, SQLAlchemy for the ORM, alembic for database migrations. Also, worked on crewai, langfuse and codegen. Primarily using Azure Cloud for deploying Webapps in Docker containers.
-
-#### Sr. Data Engineer | Circana (Bengaluru)
-*Jan 2024 – Oct 2025*
-- Built NLP model to classify new products into market structure categories, reducing manual coding effort and supporting timely KPI generation. *(Python, PySpark, Scikit-Learn, Optuna)*
-- Integrated UPCs and impression data with internal datasets to enable accurate sales/buyer/trip KPIs. *(Python, Spark, Hive, PostgreSQL, AWS S3)*
-- Automated deployments with Jenkins, ensuring CI/CD compliance and faster delivery.
-- Migrated Hive workloads to PySpark + Airflow, improving maintainability and modernizing pipelines.
-- Mentored 4 junior developers via code reviews, guidance, and blocker resolution.
-
-#### Data Engineer | Swiss Re (Bengaluru)
-*Feb 2021 – Jan 2024*
-- Automated entity resolution using Jaccard distance to cluster company names, improving reporting consistency. *(Python, PySpark, Foundry)*
-- Refactored SQL + parallelized workloads, optimizing legacy R pipelines for speed and reliability. *(R, SQL, PySpark)*
-- Built automated reports + email alerts for CRM data quality health scores. *(Python, PySpark, Foundry)*
-- Automated RFM analysis (premium, profitability, cross-selling, claims) for customer/broker health scoring.
-- Trained ML model to classify NPS responses into structured categories. *(SparkML, PySpark)*
-
-#### Data Engineer 1 | Nissan Digital (Trivandrum)
-*Jul 2019 – Feb 2021*
-- Developed ETL scripts for inventory optimization & vehicle volume estimation. *(Python, Prefect, SQLAlchemy, AWS Services like Lambda, S3, Aurora, ECS)*
+#### ACHIEVEMENTS
+- **Swiss Re Triannual Award:** Recognized for technical excellence in system optimization.
+- **Nissan Digital Spotlight Award:** For exceptional project contribution and architecture.
+- **Finalist:** 7th CSI In-App National Project Awards.
 
 </main>

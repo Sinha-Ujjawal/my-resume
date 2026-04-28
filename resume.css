@@ -4,44 +4,60 @@
   margin: 0;
 }
 
-/* Base styles */
 body {
   font-family: "Helvetica", "Arial", sans-serif;
   font-size: 11pt;
-  color: #000;
-  line-height: 1.2;
+  line-height: 1.1;
   background: white;
-
-  /* Flexbox two-column layout */
-  display: flex;
-  flex-direction: row;
 }
 
-/* Left sidebar */
-aside {
-  width: 40%;
-  background: #f9f9f9;
-  padding: 7mm 5mm;
-  box-sizing: border-box;
-}
-
-/* Right main content */
 main {
-  width: 60%;
-  padding: 7mm;
+  width: 100%;
+  padding: 8mm; /* Increased padding for better A4 look */
   box-sizing: border-box;
 }
 
-/*/* Headings */
-/*h1, h2, h3 {
-/*  font-weight: bold;
-/*  margin-top: 0.6em;
-/*  margin-bottom: 0.2em;
-/*  color: #000;
-/*}
-
-/* Links look like plain text */
-a {
-  color: inherit;
-  text-decoration: none;
+/* Float & Row logic */
+.row {
+  width: 100%;
+  display: block;
+  clear: both;
 }
+
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+main_left {
+  display: block;
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+
+main_right {
+  display: block;
+  float: right;
+  width: 50%;
+  text-align: right;
+}
+
+/* Typography */
+h1 { font-size: 18pt; margin: 0; text-transform: uppercase; }
+h2 { font-size: 16pt; margin: 0; text-transform: uppercase; }
+h3 { font-size: 12pt; margin: 0; text-transform: uppercase; }
+h4 { font-size: 11pt; margin: 0; text-transform: uppercase; }
+
+/* List & Bullet Fix */
+main ul {
+  padding-left: 1.1rem; /* Reduced left pad */
+  margin-top: 1px;
+}
+
+main li {
+  margin-bottom: 1px;
+}
+
+a { color: inherit; text-decoration: none; }
