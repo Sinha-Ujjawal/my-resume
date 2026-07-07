@@ -5,15 +5,14 @@
 
 ## UJJAWAL SINHA
 ### Senior Software Engineer
-📞 +91 7873878103
 
 </main_left>
 <main_right>
 
-✉️ ujjawalsinhacool16021998@gmail.com
-
-🔗 [LinkedIn](https://www.linkedin.com/in/sinha-ujjawal/)
-🔗 [GitHub](https://github.com/Sinha-ujjawal)
+<div>+91 7873878103</div>
+<div><a href="mailto:ujjawalsinhacool16021998@gmail.com">ujjawalsinhacool16021998@gmail.com</a></div>
+<div><a href="https://www.linkedin.com/in/sinha-ujjawal/">https://www.linkedin.com/in/sinha-ujjawal/</a></div>
+<div><a href="https://github.com/Sinha-ujjawal">https://github.com/Sinha-ujjawal</a></div>
 
 </main_right>
 </div>
@@ -23,7 +22,8 @@ Senior Software Engineer with 7 years of experience in architecting high-perform
 #### EXPERIENCE
 
 **Senior Data Engineer | Visa | February 2026 – Present | Bengaluru**
-- Working on maintaining ETL pipeline that processes client's transactions and invoice data, based on company subscription and delivers the data to outbound, based on outbound subscription. Tools used are **Scala, Java, Springboot, IBM DB2, Hadoop and Hive**.
+- Architected multi-tenant ETL frameworks managing millions of daily transactions, implementing robust logic for global subscription-based delivery
+- Implemented advanced partitioning and indexing strategies in IBM DB2 and Hive to optimize complex analytical joins for massive-scale transaction datasets.
 
 **Data Scientist | Fractal Analytics | October 2025 – February 2026 | Bengaluru**
 - Developed backend APIs and managed database migrations for the Cogentiq Platform using **FastAPI, SQLAlchemy, and Alembic**.
@@ -31,7 +31,7 @@ Senior Software Engineer with 7 years of experience in architecting high-perform
 
 **Senior Data Engineer | Circana | January 2024 – October 2025 | Bengaluru**
 - Modernized legacy Hive workloads by migrating to **PySpark and Airflow** while automating CI/CD deployments via **Jenkins**.
-- Engineered end-to-end pipelines to integrate UPC and impression data with internal datasets for sales metrics using **Spark and AWS S3**.
+- Engineered end-to-end pipeline to integrate UPC and impression data with internal datasets for sales metrics using **Spark and AWS S3**.
 
 **Data Engineer | Swiss Re | February 2021 – January 2024 | Bengaluru**
 - Worked on developing internal CRM dashboard (Customer 360) using **PySpark, Palantir Foundry, Micosoft SQL Server, Microservices (Springboot)**.
