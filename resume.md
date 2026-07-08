@@ -13,6 +13,7 @@
 <div><a href="mailto:ujjawalsinhacool16021998@gmail.com">ujjawalsinhacool16021998@gmail.com</a></div>
 <div><a href="https://www.linkedin.com/in/sinha-ujjawal/">https://www.linkedin.com/in/sinha-ujjawal/</a></div>
 <div><a href="https://github.com/Sinha-ujjawal">https://github.com/Sinha-ujjawal</a></div>
+<div><a href="https://ujjawal-sinha.pages.dev">https://ujjawal-sinha.pages.dev</a></div>
 
 </main_right>
 </div>
