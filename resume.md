@@ -23,29 +23,30 @@ Senior Software Engineer with 7 years of experience in architecting high-perform
 #### EXPERIENCE
 
 **Senior Data Engineer | Visa | February 2026 – Present | Bengaluru**
-- Architected multi-tenant ETL frameworks managing millions of daily transactions, implementing robust logic for global subscription-based delivery
-- Implemented advanced partitioning and indexing strategies in IBM DB2 and Hive to optimize complex analytical joins for massive-scale transaction datasets.
+- Implemented Matching Engine to match Transactions and Invoices for Airline sector using Rule-Based, **ML (XG-Boost + SHAP)** and **LLM (Embedding + LLM)** which reduced manual matching completely by 80%, and reduced days of effort to ~2 hours.
+- Built an autonomous AI investigation agent using Python, FastAPI, and LangGraph/LangChain with LLM-driven query routing to **automate incident triage** reducing mean time to root cause for production incidents.
+- Architected a multi-tenant ETL framework to process and manage **~1 million** banking transactions and invoices daily.
 
 **Data Scientist | Fractal Analytics | October 2025 – February 2026 | Bengaluru**
-- Developed backend APIs and managed database migrations for the Cogentiq Platform using **FastAPI, SQLAlchemy, and Alembic**.
-- Built agentic AI workflows with **CrewAI and Langfuse**, deploying containerized applications via **Docker** on **Azure Cloud**.
+- Built agentic AI workflows in Cogentiq Platform with **CrewAI and Langfuse**, deploying containerized applications via **Docker** on **Azure Cloud**.
+- Developed backend APIs and managed database migrations for the Cogentiq Platform using **FastAPI, SQLAlchemy, and Alembic**, supporting thousands of concurrent users.
 
 **Senior Data Engineer | Circana | January 2024 – October 2025 | Bengaluru**
 - Modernized legacy Hive workloads by migrating to **PySpark and Airflow** while automating CI/CD deployments via **Jenkins**.
-- Engineered end-to-end pipeline to integrate UPC and impression data with internal datasets for sales metrics using **Spark and AWS S3**.
+- Engineered end-to-end pipeline to integrate UPC and impression data with internal datasets for sales metrics using **Spark and AWS S3**. Daily processing 10G of client data.
 
 **Data Engineer | Swiss Re | February 2021 – January 2024 | Bengaluru**
-- Worked on developing internal CRM dashboard (Customer 360) using **PySpark, Palantir Foundry, Micosoft SQL Server, Microservices (Springboot)**.
-- Build **SparkML** model to do fuzzy matching of company data (name, address, etc.) to group similar company names based on companies defined in our CRM dashboard. This helped in accurate tagging of companies under the same group.
-- Built CRM data quality monitoring systems and trained **SparkML** models to classify NPS responses into structured categories.
-- Refactored SQL and parallelized workloads to optimize legacy **R pipelines**, significantly improving processing speed and reliability.
+- Worked on developing internal CRM dashboard (Customer 360) using **PySpark, Palantir Foundry, Micosoft SQL Server, Microservices (Springboot)**. The dashboard was used by thousands of Customer and Distribution Managers across global regions.
+- Build **SparkML** model to do fuzzy matching of company data (name, address, etc.) to group similar company names based on companies defined in our CRM dashboard. This helped in accurate tagging of thousands of companies daily under the same group.
+- Built a CRM data quality monitoring platform to proactively detect and diagnose data quality issues in dashboards processing millions of insurance policy records daily.
+- Reduced time to identify and resolve data quality issues, improving stakeholder confidence in CRM reporting and driving higher dashboard adoption.
 
 **Software Engineer | Nissan Digital | July 2019 – February 2021 | Trivandrum**
-- Built scalable ETL services for inventory optimization using **Python, Prefect, and SQLAlchemy**, leveraging **AWS Lambda and ECS** for serverless execution.
+- Built scalable ETL services for inventory optimization using **Python, Prefect, and SQLAlchemy**, leveraging **AWS Lambda and ECS** for serverless execution. This job processed millions of inventory data daily.
 - Contributed to the full software development lifecycle of vehicle volume estimation tools, focusing on data integrity and cloud-native infrastructure.
 
 #### SKILLS
-Python, Java, Scala, Golang, C, Bash, Spark, PySpark, Hadoop, Hive, Airflow, Pandas, Polars, Palantir Foundry, IBM DB2, PostgreSQL, Oracle, SQL Server, BigQuery, AWS, Azure, GCP, Docker, Jenkins, Linux (Fedora/Debian), Spring Boot, FastAPI, CrewAI, Langfuse, LangChain, Generative AI, LLM Orchestration, Microservices, Performance Optimization, Data-Oriented Design
+Python, Rust, Java, Scala, Golang, C, Bash, Spark, PySpark, Hadoop, Hive, Airflow, Pandas, Polars, Palantir Foundry, IBM DB2, PostgreSQL, Oracle, SQL Server, BigQuery, AWS, Azure, GCP, Docker, Jenkins, Linux (Fedora/Debian), Spring Boot, FastAPI, CrewAI, Langfuse, LangChain, Generative AI, LLM Orchestration, Microservices, Performance Optimization, Data-Oriented Design
 
 #### EDUCATION
 **B.TECH, CSE | 8.9 CGPA | 2015-19 | KIIT University, Bhubaneswar**
